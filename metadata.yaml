@@ -16,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/8765
     wikipedia: http://en.wikipedia.org/wiki/George_A._Birmingham
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/29533#The-Red-Hand-of-Ulster
 gutenberg_issued: '2009-07-29'
 gutenberg_type: Text
 identifiers:
